@@ -1,0 +1,20 @@
+{
+    "name": "lucianovidiufilote/array-helper",
+    "description": "PHP array helper",
+    "authors": [
+        {
+            "name": "Lucian Filote",
+            "email": "lucian.filote@gmail.com"
+        }
+    ],
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lucianovidiufilote\\ArrayHelper\\": "src/"
+        }
+    },
+    "version": "1.0.0"
+}
