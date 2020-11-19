@@ -1,6 +1,6 @@
 {
-    "name": "lucianovidiufilote/validation-helper",
-    "description": "PHP validation helper",
+    "name": "lucianovidiufilote/array-helper",
+    "description": "PHP array helper",
     "authors": [
         {
             "name": "Lucian Filote",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lucianovidiufilote\\ValidationHelper\\": "src/"
+            "lucianovidiufilote\\ArrayHelper\\": "src/"
         }
     },
     "version": "1.0.0"
