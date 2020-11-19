@@ -1,13 +1,13 @@
-array-helper
+validation-helper
 =======
 
-A PHP array helper that does different usual and unusual operations on arrays
+A PHP validation helper that does different usual and unusual validations
 
 Installation
 ------------
 
 ```bash
-composer require lucianovidiufilote/array-helper
+composer require lucianovidiufilote/validation-helper
 ```
 
 Usage
